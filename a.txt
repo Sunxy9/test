@@ -2,3 +2,4 @@ hello,git and github!
 i am a.
 i am b.
 last test push.
+c test.
